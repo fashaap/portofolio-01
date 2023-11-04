@@ -4,7 +4,7 @@ import { BlogData } from "../../data/Blog";
 const Blog = () => {
   return (
     <div className="backdrop-blur-[2px]">
-      <div className="container max-w-5xl mx-auto flex flex-col items-center md:items-stretch py-10 flex-1 h-screen  text-white ">
+      <div className="container max-w-5xl mx-auto flex flex-col items-center md:items-stretch py-10 flex-1 h-auto  text-white ">
         <div className="heading flex flex-col gap-5 w-full">
           <h1 className="text-3xl text-center ">Blog Post</h1>
           <hr className="mb-8" />
