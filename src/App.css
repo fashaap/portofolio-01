@@ -1,0 +1,5 @@
+.bg-grid{
+  background-image: url(./assets/grid.svg);
+  background-repeat: repeat;
+  background-size: 100px;
+}
